@@ -98,7 +98,7 @@ export default function LandingPage() {
         <TextSplitAbout
           title="About Beli"
           description={[
-            "With 98% client satisfaction and 10+ years of industry experience, Beli is a full-service design agency transforming 200+ brands across diverse sectors. We are dedicated to creating transformative digital experiences that go beyond aesthetics—solving problems, telling stories, and building meaningful connections between brands and their audiences.",            "With a team of experienced designers, strategists, and creatives, we partner with forward-thinking companies to bring their vision to life. Our approach combines research-driven insights with innovative thinking to deliver solutions that are both beautiful and effective.",            "From concept to launch, we're committed to excellence at every stage of the creative process, leveraging our proven track record to establish ourselves as trusted partners in strategic design innovation."
+            "With 98% client satisfaction and 200+ brands transformed, Beli is a full-service design agency delivering transformative digital experiences across diverse sectors.",            "Our team of experienced designers, strategists, and creatives partner with forward-thinking companies to bring vision to life. We combine research-driven insights with innovative thinking to deliver solutions that are both beautiful and effective."
           ]}
           buttons={[
             { text: "Get in Touch", href: "contact" }
