@@ -41,7 +41,7 @@ export default function LandingPage() {
       
       <div id="hero" data-section="hero">
         <HeroBillboardDashboard
-          title="Creative Design Solutions"
+          title="Transform Your Brand Into Market Leader"
           description="We craft beautiful, purposeful digital experiences that transform brands and engage audiences. Beli specializes in strategic design that drives results."
           tag="Design Agency"
           tagIcon={Sparkles}
